@@ -56,6 +56,8 @@ Simultaneously, his vision and patronage transformed Rome, fostering the genius 
 
 **Citations**
 
+**Created using Gemini 2.5 Pro Preview 03-25 in Google AI Studio**
+
 [^1]: Mallett, Michael Edward. *The Borgias: The Rise and Fall of a Renaissance Dynasty*. Barnes & Noble Books, 1998 [Original publication 1969].
 [^2]: Duffy, Eamon. *Saints & Sinners: A History of the Popes*. Third Edition. Yale University Press, 2006.
 [^3]: Fusero, Clemente. *The Borgias*. Translated by Peter Green. Praeger Publishers, 1972.
